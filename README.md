@@ -11,3 +11,4 @@ updated on server side 2
 before creating branch
 
 bc_commit
+before creating branch
